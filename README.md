@@ -7,3 +7,4 @@ Upload this file to your resources folder and ensure it in your server.cfg file 
 
 THIS HUD ONLY WORKS ON ESX
 
+Preview: https://www.youtube.com/watch?v=XUzDHdfa4JM
